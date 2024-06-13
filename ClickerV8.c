@@ -7,6 +7,8 @@
 #define NUM_FRAMES 3
 #define NUM_BUILDINGS 6
 
+// WARNING: The following code is extremely 1337 and very well organized
+
 typedef enum {
     NONE = 0,
     CLICKER,
